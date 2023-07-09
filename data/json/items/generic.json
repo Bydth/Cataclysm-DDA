@@ -1378,11 +1378,11 @@
     "price": 1000,
     "price_postapoc": 10,
     "material": [ "steel", "plastic" ],
-    "weight": "31520 g",
-    "volume": "15 L",
+    "weight": "3175.15 g",
+    "volume": "3 L",
     "to_hit": -3,
     "flags": [ "TRADER_AVOID", "NO_REPAIR" ],
-    "melee_damage": { "bash": 6, "cut": 6 }
+    "melee_damage": { "bash": 3, "cut": 3 }
   },
   {
     "type": "GENERIC",
