@@ -438,7 +438,7 @@
     "aggression": 40,
     "dodge": 4,
     "vision_night": 5,
-    "starting_ammo": { "grenade_feral": 1 },	
+    "starting_ammo": { "grenade_feral": 1 },
     "death_drops": "mon_feral_soldier_death_drops",
     "special_attacks": [
       {
