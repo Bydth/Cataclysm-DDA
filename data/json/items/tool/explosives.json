@@ -447,7 +447,7 @@
       "menu_text": "Fix, but not pull, jammed grenade pin",
       "type": "transform"
     },
-    "flags": ["BOMB", "GRENADE" ],
+    "flags": [ "BOMB", "GRENADE" ],
     "melee_damage": { "bash": 2 }
   },   
   {
