@@ -127,6 +127,12 @@
   },
   {
     "type": "ammunition_type",
+    "id": "feral_thrown_grenade",
+    "name": "grenade",
+    "default": "grenade_feral"
+  },   
+  {
+    "type": "ammunition_type",
     "id": "shot",
     "name": "12 gauge",
     "default": "shot_00"
