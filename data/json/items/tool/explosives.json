@@ -422,6 +422,35 @@
     "melee_damage": { "bash": 2 }
   },
   {
+    "id": "grenade_feral",
+    "//": "Used only by feral soldiers for their throw attack. Needs to be converted to a regular grenade by the player before it can be used.",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "AMMO" ],
+    "category": "weapons",
+    "name": { "str": "jammed grenade" },
+    "description": "A military-grade fragmentation hand grenade. Someone seems to have incorrectly pulled the pin and bent it out of shape, jamming it in the grenade. Use this item to unbend the pin and make the grenade ready for use.",
+    "weight": "397 g",
+    "volume": "540 ml",
+    "longest_side": "110 mm",
+    "price": "15 USD",
+    "price_postapoc": "10 USD",
+    "ammo_type": "feral_thrown_grenade",	
+    "to_hit": { "grip": "none", "length": "hand", "surface": "any", "balance": "uneven" },
+    "material": [ "steel", "plastic" ],
+    "symbol": "*",
+    "looks_like": "grenade",	
+    "color": "green",
+    "use_action": {
+      "need_wielding": false,
+      "target": "grenade",
+      "msg": "You fix the pin on the grenade.",
+      "menu_text": "Fix, but not pull, jammed grenade pin",
+      "type": "transform"
+    },
+    "flags": ["BOMB", "GRENADE" ],
+    "melee_damage": { "bash": 2 }
+  },   
+  {
     "id": "grenade_act",
     "type": "ITEM",
     "subtypes": [ "TOOL" ],
