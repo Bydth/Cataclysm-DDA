@@ -434,7 +434,7 @@
     "longest_side": "110 mm",
     "price": "15 USD",
     "price_postapoc": "10 USD",
-    "ammo_type": "feral_thrown_grenade",	
+    "ammo_type": "feral_thrown_grenade",
     "to_hit": { "grip": "none", "length": "hand", "surface": "any", "balance": "uneven" },
     "material": [ "steel", "plastic" ],
     "symbol": "*",
