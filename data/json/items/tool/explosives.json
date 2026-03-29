@@ -438,7 +438,7 @@
     "to_hit": { "grip": "none", "length": "hand", "surface": "any", "balance": "uneven" },
     "material": [ "steel", "plastic" ],
     "symbol": "*",
-    "looks_like": "grenade",	
+    "looks_like": "grenade",
     "color": "green",
     "use_action": {
       "need_wielding": false,
