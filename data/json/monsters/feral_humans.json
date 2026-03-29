@@ -438,8 +438,26 @@
     "aggression": 40,
     "dodge": 4,
     "vision_night": 5,
+    "starting_ammo": { "grenade_feral": 1 },	
     "death_drops": "mon_feral_soldier_death_drops",
-    "special_attacks": [ { "id": "feral_weapon_knife_combat" }, [ "PARROT_AT_DANGER", 0 ] ],
+    "special_attacks": [
+      {
+        "type": "gun",
+        "cooldown": 5,
+        "move_cost": 150,
+        "gun_type": "feral_soldier_thrown_grenade",
+        "ammo_type": "grenade_feral",
+        "no_ammo_sound": "",
+        "fake_skills": [ [ "throw", 4 ] ],
+        "fake_str": 9,
+        "condition": { "not": { "u_has_effect": "maimed_arm" } },
+        "require_targeting_player": false,
+        "ranges": [ [ 4, 9, "DEFAULT" ] ],
+        "description": "The feral soldier throws a grenade!"
+      },
+      { "id": "feral_weapon_knife_combat" },
+      [ "PARROT_AT_DANGER", 0 ]
+    ],	
     "zombify_into": "mon_zombie_soldier",
     "extend": { "weakpoint_sets": [ "wps_humanoid_body_armor", "wps_humanoid_open_helmet" ], "families": [ "prof_wp_syn_armored" ] },
     "armor": { "bash": 4, "cut": 9, "bullet": 7, "electric": 3 }
