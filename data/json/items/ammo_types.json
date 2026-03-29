@@ -130,7 +130,7 @@
     "id": "feral_thrown_grenade",
     "name": "grenade",
     "default": "grenade_feral"
-  },   
+  },
   {
     "type": "ammunition_type",
     "id": "shot",
