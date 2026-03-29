@@ -225,7 +225,7 @@
       }
     ],
     "melee_damage": { "bash": 2 }
-  },  
+  },
   {
     "id": "nether_huntsman_arm",
     "type": "ITEM",
