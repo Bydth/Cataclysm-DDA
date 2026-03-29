@@ -449,7 +449,7 @@
     },
     "flags": [ "BOMB", "GRENADE" ],
     "melee_damage": { "bash": 2 }
-  },   
+  },
   {
     "id": "grenade_act",
     "type": "ITEM",
