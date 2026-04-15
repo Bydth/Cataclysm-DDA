@@ -46,7 +46,7 @@
     "color": "light_red",
     "autonote_visibility": "same_tile",
     "flags": [ "MAN_MADE", "CLASSIC" ]
-  },   
+  },
   {
     "id": "mx_dormant",
     "type": "map_extra",
