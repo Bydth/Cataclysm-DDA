@@ -72,13 +72,6 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_DERMATIK_VICTIM_TRAP",
-    "monsters": [
-      { "monster": "mon_dermatik_juvenile_flightless" } 
-	  ]
-  },  
-  {
-    "type": "monstergroup",
     "id": "GROUP_ROACH",
     "is_animal": true,
     "monsters": [
