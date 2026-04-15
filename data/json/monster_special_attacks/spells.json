@@ -557,7 +557,7 @@
     "damage_type": "pure",
     "min_range": 30,
     "max_range": 30
-  },    
+  },
   {
     "type": "SPELL",
     "id": "mutant_frenzy",
