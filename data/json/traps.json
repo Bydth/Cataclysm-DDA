@@ -817,6 +817,7 @@
     "effect": [
       { "u_make_sound": "chitin flexing and earth moving*", "volume": 2, "type": "movement" },
       { "u_message": "The ground shifts and writhes below your feet as something burrows out of the earth!" },
+      { "u_spawn_monster": "mon_dermatik_juvenile_flightless", "real_count": 1, "min_radius": 1, "max_radius": 1 },
       {
         "if": { "and": [ { "not": "u_is_avatar" }, "player_see_u" ] },
         "then": { "message": "The ground shifts and writhes below <u_name>'s feet as something burrows out of the earth!" }
