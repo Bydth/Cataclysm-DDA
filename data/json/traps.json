@@ -826,7 +826,7 @@
 		  {"if": { "and": [ { "not": "u_is_avatar" }, "player_see_u" ] },	
 		  "then": { "message": "The ground shifts and writhes below <u_name>'s feet as something burrows out of the earth!" } }
     ]
-  },   
+  },
   {
     "type": "trap",
     "id": "tr_glass_pit",
