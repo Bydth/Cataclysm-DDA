@@ -2399,7 +2399,7 @@
     "weight": "10 kg",
     "hp": 35,
     "speed": 90,
-    "looks_like": "mon_dermatik",	
+    "looks_like": "mon_dermatik",
     "aggression": 40,
     "morale": 10,
     "melee_skill": 3,
