@@ -39,7 +39,7 @@
     "id": "mx_dermatikvictim",
     "type": "map_extra",
     "name": { "str": "Strange Corpse" },
-    "description": "A strangly damaged corpse is here.",
+    "description": "A strangely damaged corpse is here.",
     "generator": { "generator_method": "update_mapgen", "generator_id": "mx_dermatikvictim" },
     "min_max_zlevel": [ -1, 0 ],
     "sym": "f",
