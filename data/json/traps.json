@@ -808,8 +808,8 @@
     "always_invisible": true,
     "eocs": [ "EOC_DERMATIK_VICTIM_TRAP_ACTIVATE_MSG" ],
     "trigger_message_u": "Something burrows out of the ground at your feet!",
-    "trigger_message_npc": "Something burrows out of the ground at the feet of <npcname>! "	
-  },  
+    "trigger_message_npc": "Something burrows out of the ground at the feet of <npcname>! "
+  },
   {
     "type": "effect_on_condition",
     "id": "EOC_DERMATIK_VICTIM_TRAP_ACTIVATE_MSG",
