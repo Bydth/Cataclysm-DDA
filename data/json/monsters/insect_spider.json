@@ -2408,7 +2408,7 @@
     "melee_damage": [ { "damage_type": "cut", "amount": 3 } ],
     "dodge": 3,
     "armor": { "bash": 1, "cut": 3 }
-  },  
+  },
   {
     "id": "mon_dermatik_incubator_deer",
     "type": "MONSTER",
