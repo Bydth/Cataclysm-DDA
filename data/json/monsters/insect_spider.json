@@ -2382,7 +2382,7 @@
         "monster_message": "%1$s pulls her wings free and begins to take flight!",
         "cooldown": 1
       }
-    ],	
+    ],
     "delete": { "weakpoints": [ { "id": "stinger" } ], "flags": [ "FLIES" ], "special_attacks": [ "dermatik_impale" ] },
     "flags": [ "SEES", "HEARS", "SMELLS", "FLIES", "PATH_AVOID_FIRE", "CANPLAY", "GRABS" ],
     "armor": { "bash": 1, "cut": 3 }
