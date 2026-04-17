@@ -299,6 +299,7 @@
     "id": "corpse_dermatik_victim",
     "copy-from": "corpse_generic_human",
     "extend": { "flags": [ "PULPED" ] },
+    "delete": { "flags": [ "CORPSE" ] },
     "volume": "30 L",
     "weight": "22 kg",
     "name": { "str": "strange corpse" },
