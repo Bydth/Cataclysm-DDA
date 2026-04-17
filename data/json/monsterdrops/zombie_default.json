@@ -317,5 +317,12 @@
         ]
       }
     ]
+  },
+  {
+    "type": "item_group",
+    "subtype": "distribution",
+    "id": "default_zombie_death_drops_spill",
+    "on_overflow": "spill",
+    "entries": [ { "group": "default_zombie_death_drops" } ]
   }
 ]

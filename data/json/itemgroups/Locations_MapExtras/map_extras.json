@@ -187,7 +187,7 @@
     "subtype": "collection",
     "id": "map_extra_dermatik_victim_itemgroup_corpse",
     "container-item": "corpse_dermatik_victim",
-    "entries": [ { "group": "default_zombie_death_drops" } ]
+    "entries": [ { "group": "default_zombie_death_drops_spill" } ]
   },
   {
     "type": "item_group",
