@@ -180,6 +180,7 @@
     "type": "item_group",
     "subtype": "collection",
     "id": "map_extra_dermatik_victim_itemgroup",
+    "on_overflow": "spill",
     "entries": [ { "group": "map_extra_dermatik_victim_itemgroup_corpse", "prob": 100, "damage": [ 1, 3 ] } ]
   },
   {
